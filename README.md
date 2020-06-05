@@ -1,3 +1,7 @@
+# THIS REPO IS DEPRECATED, FOR REACT + RAINBOW STARTER KIT, GO TO THE NEW REPOSITORY: [STARTERKIT-REACT-WEB-SDK](https://github.com/Rainbow-CPaaS/StarterKit-React-Web-SDK)
+
+
+
 # Starter-Kit of Rainbow SDK for Web with Brunch + React + Babel/ES6
 
 This is a modern JS skeleton with React for [Brunch](http://brunch.io).
